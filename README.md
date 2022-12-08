@@ -6,7 +6,7 @@
   <h3 align="center">Hackerrank_10daysOFJScode</h3>
 
   <p align="center">
-    Repository for Hackerrank 30 Days of Code
+    Repository for Hackerrank 10 Days of Code
     <br />
     <a href="https://github.com/Soumikdas96/hackerrank-10-days--js-coding-solution-"><strong>View the Repo</strong></a>
 </p>
@@ -17,8 +17,8 @@ Failing to do so will mark your PR as invalid and won't be counted in hactoberfe
 
 ## Introduction
 
-Thirty days of code by Hacker rank is aimed at improving your coding skills by coding for 30 days in a row.
-You can also unlock a new code challenge and tutorial each day and then, submit solutions in Java, python and other popular languages.
+Ten days of code by Hacker rank is aimed at improving your coding skills by coding for 10 days in a row.
+You can also unlock a new code challenge and tutorial each day and then, submit solutions in JavaScript.
 But, this can prove to be quite a difficult task at times. So, here are some solutions for you to go through.
 ### Solutions
 
@@ -31,4 +31,4 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 ### About The Repo
 
 
-This is a repository aiming to provide solutions for 30 days code challenge (2020) conducted on Hackerrank. The solutions are available in major languages like Python, ,Java.It is a great platform for users to contribute and provide the solutions in other languages too.
+This is a repository aiming to provide solutions for 10 days code challenge (2022) conducted on Hackerrank. The solutions are available in major languages on JavaScript.
