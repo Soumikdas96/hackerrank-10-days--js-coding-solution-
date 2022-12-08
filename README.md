@@ -8,7 +8,7 @@
   <p align="center">
     Repository for Hackerrank 30 Days of Code
     <br />
-    <a href="https://github.com/Soumikdas96/hackerrank-30-days-coding-solution"><strong>View the Repo</strong></a>
+    <a href="https://github.com/Soumikdas96/hackerrank-10-days--js-coding-solution-"><strong>View the Repo</strong></a>
 </p>
 
 > **_NOTE:_** Before creating a Pull Request, make sure you add :white_check_mark: to [Completed](#completed) or if it can not be execute in that particular language then add :x: to [Completed](#completed) in that particular problem.
@@ -24,8 +24,7 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 
 > **_NOTE:_** First, try to solve it on your own. If facing some difficulty, you can see this.
 
-- [Python](https://github.com/Soumikdas96/hackerrank-30-days-coding-solution)
-- [Java](https://github.com/Soumikdas96/hackerrank-30-days-coding-solution)
+- [JavaScript](https://github.com/Soumikdas96/hackerrank-10-days--js-coding-solution-)
 
 ### Completed
 
