@@ -31,4 +31,4 @@ But, this can prove to be quite a difficult task at times. So, here are some sol
 ### About The Repo
 
 
-This is a repository aiming to provide solutions for 10 days code challenge (2022) conducted on Hackerrank. The solutions are available in major languages on JavaScript.
+This is a repository aiming to provide solutions for 10 days code challenge (2022) conducted on Hackerrank. The solutions are available in major language on JavaScript.
